@@ -23,8 +23,8 @@ Aplikasi Penghitung Kata adalah sebuah program berbasis GUI yang dirancang untuk
 
 ## Demo
 ![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiPenghitungKata/blob/044562328089080203994e2f62de9a9c8bc185cb/pic/bukti.gif)
-![App Screenshot]([https://github.com/rafkrnwnworkspace/AplikasiPenghitungKata/blob/044562328089080203994e2f62de9a9c8bc185cb/pic/bukti.gif](https://github.com/rafkrnwnworkspace/AplikasiPenghitungKata/blob/044562328089080203994e2f62de9a9c8bc185cb/pic/fotobuttonsaveoptionpane.png))
-![App Screenshot]([https://github.com/rafkrnwnworkspace/AplikasiCekGanjilGenap/blob/d651846c34b2fa3766b4b97f94bb3440d23a0012/pic/CekGanjilGenap.png](https://github.com/rafkrnwnworkspace/AplikasiPenghitungKata/blob/044562328089080203994e2f62de9a9c8bc185cb/pic/fotobuttonsearchnya.png))
+![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiPenghitungKata/blob/044562328089080203994e2f62de9a9c8bc185cb/pic/fotobuttonsaveoptionpane.png)
+![App Screenshot](https://github.com/rafkrnwnworkspace/AplikasiPenghitungKata/blob/044562328089080203994e2f62de9a9c8bc185cb/pic/fotobuttonsearchnya.png)
 
 # Pembuat Aplikasi
  Rafli Arizqi Kurniawan ( 2210010611 ) 
